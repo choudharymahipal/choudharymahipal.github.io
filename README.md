@@ -1,2 +1,2 @@
-# choudharymahipal.github.com
+# choudharymahipal.github.io
 Portfolio Website
